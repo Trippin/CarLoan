@@ -1,9 +1,5 @@
 package carloan;
 
-/**
- *
- * @author John
- */
 public class CarLoan {
 
     public static void main(String[] args) {
